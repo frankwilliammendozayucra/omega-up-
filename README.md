@@ -1,0 +1,2 @@
+# omega-up-
+pensamiento computacional 
